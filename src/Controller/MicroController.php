@@ -13,8 +13,20 @@ use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 
 class MicroController extends AbstractController
 {
- /**
-  * @Route("/")
+
+    /**
+     * @Route("/")
+     */
+    public function index() {
+        $number = 666;
+        return $this->render(
+            'micro/number.html.twig', [
+            'number' => $number
+        ]);
+    }
+
+    /**
+  * @Route("/number")
   */
     public function number() {
         $number = random_int(0, 100);
