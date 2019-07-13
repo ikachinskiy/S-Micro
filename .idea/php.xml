@@ -11,7 +11,6 @@
       <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
       <path value="$PROJECT_DIR$/vendor/symfony/console" />
       <path value="$PROJECT_DIR$/vendor/psr/log" />
-      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
       <path value="$PROJECT_DIR$/vendor/symfony/config" />
       <path value="$PROJECT_DIR$/vendor/psr/container" />
       <path value="$PROJECT_DIR$/vendor/psr/cache" />
@@ -42,11 +41,19 @@
       <path value="$PROJECT_DIR$/vendor/symfony/profiler-pack" />
       <path value="$PROJECT_DIR$/vendor/twig/twig" />
       <path value="$PROJECT_DIR$/vendor/symfony/apache-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
     </include_path>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="$USER_HOME$/.PhpStorm2018.2/system/plugins/idea-php-latest-plugin/php-v7.2.10/php.sh" id="abf0e41e-9d94-48f3-9bf1-b83e8651d15c" name="PHP latest" debugger_id="php.debugger.XDebug" />
+      <interpreter id="7229fd29-6ab8-40db-b097-11fcb63d65ea" name="PHP latest" home="$USER_HOME$/.PhpStorm2019.1/system/plugins/idea-php-latest-plugin/php-v7.3.1/php.sh" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />

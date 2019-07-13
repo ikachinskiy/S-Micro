@@ -35,9 +35,6 @@
     "psr/log": {
         "version": "1.0.2"
     },
-    "psr/simple-cache": {
-        "version": "1.0.1"
-    },
     "sensio/framework-extra-bundle": {
         "version": "5.2",
         "recipe": {
@@ -59,6 +56,9 @@
     "symfony/cache": {
         "version": "v4.1.4"
     },
+    "symfony/cache-contracts": {
+        "version": "v1.1.5"
+    },
     "symfony/config": {
         "version": "v4.1.4"
     },
@@ -71,9 +71,6 @@
             "ref": "e3868d2f4a5104f19f844fe551099a00c6562527"
         }
     },
-    "symfony/contracts": {
-        "version": "v1.0.2"
-    },
     "symfony/debug": {
         "version": "v4.1.4"
     },
@@ -85,6 +82,9 @@
     },
     "symfony/event-dispatcher": {
         "version": "v4.1.4"
+    },
+    "symfony/event-dispatcher-contracts": {
+        "version": "v1.1.5"
     },
     "symfony/filesystem": {
         "version": "v4.1.4"
@@ -116,11 +116,20 @@
     "symfony/http-kernel": {
         "version": "v4.1.4"
     },
+    "symfony/mime": {
+        "version": "v4.3.2"
+    },
+    "symfony/polyfill-intl-idn": {
+        "version": "v1.11.0"
+    },
     "symfony/polyfill-mbstring": {
         "version": "v1.9.0"
     },
     "symfony/polyfill-php72": {
         "version": "v1.9.0"
+    },
+    "symfony/polyfill-php73": {
+        "version": "v1.11.0"
     },
     "symfony/profiler-pack": {
         "version": "v1.0.3"
@@ -134,8 +143,14 @@
             "ref": "5f514d9d3b8a8aac3d62ae6a86b18b90ed0c7826"
         }
     },
+    "symfony/service-contracts": {
+        "version": "v1.1.5"
+    },
     "symfony/stopwatch": {
         "version": "v4.1.4"
+    },
+    "symfony/translation-contracts": {
+        "version": "v1.1.5"
     },
     "symfony/twig-bridge": {
         "version": "v4.1.4"
