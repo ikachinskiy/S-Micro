@@ -8,23 +8,11 @@
             "ref": "cb4152ebcadbe620ea2261da1a1c5a9b8cea7672"
         }
     },
-    "doctrine/cache": {
-        "version": "v1.8.0"
-    },
-    "doctrine/collections": {
-        "version": "v1.5.0"
-    },
-    "doctrine/event-manager": {
-        "version": "v1.0.0"
-    },
     "doctrine/lexer": {
         "version": "v1.0.1"
     },
-    "doctrine/persistence": {
-        "version": "v1.0.1"
-    },
-    "doctrine/reflection": {
-        "version": "v1.0.0"
+    "php": {
+        "version": "7.4"
     },
     "psr/cache": {
         "version": "1.0.1"
@@ -79,6 +67,9 @@
     },
     "symfony/dotenv": {
         "version": "v4.1.4"
+    },
+    "symfony/error-handler": {
+        "version": "v4.4.8"
     },
     "symfony/event-dispatcher": {
         "version": "v4.1.4"
