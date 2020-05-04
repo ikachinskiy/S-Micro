@@ -18,7 +18,7 @@ class MicroController extends AbstractController
      * @Route("/")
      */
     public function index() {
-        $number = 666;
+        $number = random_int(1, 100);
         return $this->render(
             'micro/number.html.twig', [
             'number' => $number
